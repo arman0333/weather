@@ -1,1 +1,1 @@
-https://arman0333.github.io/weather/
+https://weather-three-ashy.vercel.app/

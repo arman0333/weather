@@ -10,7 +10,7 @@ background:black;
 .card{
 
     width:90%;
-    max-width: 450px;
+    max-width: 470px;
     background: linear-gradient(135deg,#00efba,#5b548a);
     color: #fff;
     margin: 100px auto 0;
@@ -24,6 +24,7 @@ background:black;
     justify-content: space-between;
     align-items: center;
     display: flex;
+    gap: 4px;
 
 }
 .search input{
@@ -47,6 +48,7 @@ background:black;
     width: 50px;
     cursor: pointer;
     margin-left: 5px;
+    padding: 10px;
 
 }
 
